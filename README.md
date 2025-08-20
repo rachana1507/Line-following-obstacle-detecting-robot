@@ -1,6 +1,7 @@
 ## 📊 Project Presentation
 [View Project PDF](Line-Following-Obstacle-Avoiding-Robot.pdf)
 
+<<<<<<< HEAD
 ## Abstract
 
 This project presents an Arduino-based robot designed for line following and obstacle
@@ -16,3 +17,8 @@ industrial and service robotics applications.
 - **Maintaining a stable battery voltage** is important due to Arduino’s high power consumption.  
 - **Properly soldering DC motors** ensures smoother maneuvering, though wheel friction issues may still require manual adjustment.  
 - **Iterative code tuning** for delay and speed optimization is essential to achieve reliable performance.  
+=======
+![Circuit Connection](circuit-connections.png)
+
+![Full Presentation](Line-Following-Obstacle-Avoiding-Robot.pdf)
+>>>>>>> c0fbb24 (diagram)
